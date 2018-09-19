@@ -1,0 +1,280 @@
+<data>
+    <restaurant name="Au Bon Pain" location="West Union" origin="American" rating="3.00" restaurant_time="7:00AM-10:00PM">
+        <offering name="Egg Whites Au-bon-pain-slide Cheddar" price="3.50"></offering>
+        <offering name="2 Eggs and Cheddar Sandwich" price="3.50"></offering>
+        <offering name="Smoked Salmon Wasabi" price="9.50"></offering>
+        <offering name="Egg Whites, Cheddar and Avocado" price="8.50"></offering>
+        <offering name="2 Egg Sandwich" price="3.50"></offering>
+        <offering name="Chicken Cobb with Avocado Salad" price="7.50"></offering>
+        <offering name="Chicken Caesar Asiago Salad" price="7.50"></offering>
+        <offering name="Turkey Apple Brie Salad" price="7.50"></offering>
+        <offering name="Southwest Chicken Salad" price="7.50"></offering>
+        <offering name="Vegetarian Deluxe Salad" price="7.00"></offering>
+        <offering name="Thai Peanut Chicken Salad" price="7.50"></offering>
+        <offering name="Tuna Garden Salad" price="6.50"></offering>
+        <offering name="Turkey Club Sandwich" price="7.50"></offering>
+        <offering name="Chipotle Black Bean Burger with Avocado Sandwich" price="8.50"></offering>
+        <offering name="The Veggie Sandwich" price="7.50"></offering>
+        <offering name="Grilled Chicken Avocado Sandwich" price="9.00"></offering>
+        <offering name="Turkey and Swiss Sandwich" price="8.50"></offering>
+        <offering name="Grilled Chicken Sandwich" price="8.50"></offering>
+        <offering name="Southwest Tuna Sandwich" price="8.50"></offering>
+        <offering name="Mediterranean Sandwich" price="8.00"></offering>
+        <offering name="Caprese Sandwich" price="8.00"></offering>
+        <offering name="Black Angus Roast Beef and Herb Cheese Sandwich" price="9.50"></offering>
+        <offering name="Turkey Cranberry Brie Sandwich" price="8.50"></offering>
+        <offering name="Classic Chicken Salad Sandwich" price="8.50"></offering>
+        <offering name="Tuna Salad Sandwich" price="8.50"></offering>
+        <offering name="Black Angus Roast Beef and Cheddar Sandwich" price="8.50"></offering>
+        <offering name="Thai Peanut Chicken Sandwich" price="8.50"></offering>
+        <offering name="Chicken Caesar Sandwich" price="8.50"></offering>
+        <offering name="Napa Chicken with Avocado Sandwich" price="8.50"></offering>
+    </restaurant>
+
+    <restaurant name="Cafe Edens" location="McClendon Tower" origin="American" rating="3.00" restaurant_time="12:00AM-12:00AM">
+        <offering name="Grilled Cheese Sandwich" price="6.00"></offering>
+        <offering name="Black Angus Burger" price="9.50"></offering>
+        <offering name="Morty’s Reuben Sandwich" price="10.00"></offering>
+        <offering name="Grilled Chicken Sandwich" price="9.50"></offering>
+        <offering name="Salmon Burger" price="9.50"></offering>
+        <offering name="Pulled Pork Barbeque Sandwich" price="9.00"></offering>
+        <offering name="The Godfather Sandwich" price="9.50"></offering>
+        <offering name="Veggie Single Sandwich" price="9.00"></offering>
+        <offering name="Chopped Mexican Salad" price="9.50"></offering>
+        <offering name="E Tu Caesar Salad" price="9.00"></offering>
+        <offering name="Garden of Edens Salad" price="9.00"></offering>
+        <offering name="California Club Salad" price="10.00"></offering>
+        <offering name="Meze Platter Salad" price="9.50"></offering>
+        <offering name="Hiyashi Chuka Salad" price="10.00"></offering>
+        <offering name="Tripple S Salad" price="10.00"></offering>
+        <offering name="Quesadilla" price="7.00"></offering>
+        <offering name="Build a Biscuit" price="2.00"></offering>
+        <offering name="Pancakes" price="6.00"></offering>
+        <offering name="Fried Egg BLT" price="8.00"></offering>
+        <offering name="Eggs Your Way" price="7.00"></offering>
+        <offering name="Tofu Rancheros" price="7.00"></offering>
+        <offering name="Biscuit and Gravy" price="5.00"></offering>
+        <offering name="Chicken Tikka Masala" price="12.00"></offering>
+        <offering name="Spaghetti and Meatballs" price="12.00"></offering>
+        <offering name="Enchiladas Verdes" price="12.00"></offering>
+        <offering name="Grilled Flat Iron Steak" price="15.00"></offering>
+        <offering name="Chicken Pommes Frites" price="14.00"></offering>
+        <offering name="Udon Noodle Bowl" price="14.00"></offering>
+        <offering name="Wings Your Way" price="9.50"></offering>
+        <offering name="Falafel on Pita" price="8.00"></offering>
+        <offering name="Samosas" price="9.50"></offering>
+        <offering name="The Haystack" price="9.00"></offering>
+        <offering name="Tacos" price="4.00"></offering>
+    </restaurant>
+
+    <restaurant name="Ginger Soy" location="West Union" origin="Asia" rating="3.50" restaurant_time="11:00AM-8:00PM">
+        <offering name="Make Your Own Bowl" price="9.15"></offering>
+        <offering name="Ginger Chicken" price="8.15"></offering>
+        <offering name="Sesame Chicken" price="7.95"></offering>
+        <offering name="Bulgogi" price="8.95"></offering>
+        <offering name="Vegetable Dumplings" price="2.95"></offering>
+        <offering name="Crystal Shrimp Dumplings" price="2.95"></offering>
+        <offering name="Chicken Dumplings" price="2.95"></offering>
+        <offering name="BBQ Bun" price="2.95"></offering>
+        <offering name="Fried Vegetable Dumplings" price="2.95"></offering>
+        <offering name="Fried Spring Rolls" price="2.95"></offering>
+        <offering name="Poke Bowl" price="10.15"></offering>
+        <offering name="Ramen" price="9.15"></offering>
+    </restaurant>
+
+    <restaurant name="Cafe De Novo" location="Law School" origin="American" rating="3.50" restaurant_time="7:30AM-3:30PM">
+        <offering name="Farmers Market Breakfast" price="6.00"></offering>
+        <offering name="Chorizo Hash" price="6.00"></offering>
+        <offering name="Tofu Scramble" price="5.00"></offering>
+        <offering name="Granola and Fresh Fruite Plate" price="6.00"></offering>
+        <offering name="Fast Lane Buffet" price="7.00"></offering>
+        <offering name="Soup Du Jour" price="3.00"></offering>
+        <offering name="Soup Du Jour with a Little Green Salad" price="5.00"></offering>
+        <offering name="Soup Du Jour with grilled cheese sandwich" price="6.00"></offering>
+        <offering name="Eggs" price="1.00"></offering>
+        <offering name="Cuban Sandwich" price="7.00"></offering>
+        <offering name="Roasted Veggie Panini" price="7.00"></offering>
+        <offering name="BLT and Egg sandwich" price="7.00"></offering>
+        <offering name="Hot Pastrami Sandwich" price="7.00"></offering>
+        <offering name="Falafel on pita" price="7.00"></offering>
+        <offering name="Smoked Brisket Sandwich" price="8.00"></offering>
+        <offering name="Veggie Burger" price="7.00"></offering>
+        <offering name="De Novo Burger" price="8.00"></offering>
+        <offering name="Grilled Chicken on Pita" price="7.00"></offering>
+        <offering name="Grilled Cheese Sandwich" price="5.00"></offering>
+        <offering name="Hummus Plate Salad" price="7.00"></offering>
+        <offering name="Seared Salmon Caesar" price="7.00"></offering>
+        <offering name="Sesame Noodle Salad" price="7.00"></offering>
+        <offering name="Deli Salad Platter" price="7.00"></offering>
+        <offering name="Salade Nocoise" price="8.00"></offering>
+        <offering name="The Little Green Salad" price="2.00"></offering>
+        <offering name="Muffins" price="2.25"></offering>
+        <offering name="Scone" price="2.25"></offering>
+        <offering name="Plain Croissant" price="1.99"></offering>
+        <offering name="Chocolate Croissant" price="2.50"></offering>
+        <offering name="Cookies and Dessert Bars" price="2.50"></offering>
+        <offering name="All Protein or Snack Bars" price="1.99"></offering>
+    </restaurant>
+
+    <restaurant name="Dames Express" location="Central Campus" origin="American" rating="3.50" restaurant_time="10:00AM-10:00PM">
+        <offering name="Chicken and Waffles" price="10.00"></offering>
+        <offering name="Biscuits and Gravy" price="5.00"></offering>
+        <offering name="Wings and Feet" price="7.00"></offering>
+        <offering name="AM Burrito" price="6.00"></offering>
+        <offering name="Bistro Quesadilla" price="8.00"></offering>
+        <offering name="Waffle Parfait" price="7.00"></offering>
+        <offering name="Waffles Waffles" price="6.00"></offering>
+        <offering name="Loaded Hash" price="6.00"></offering>
+        <offering name="Bistro Grilled Cheese" price="5.00"></offering>
+        <offering name="Hot Soup with crackers" price="4.00"></offering>
+        <offering name="Hot Soup with side salad" price="6.00"></offering>
+        <offering name="Hot Soup with grilled cheese" price="8.00"></offering>
+        <offering name="Orchard Patch Salad" price="6.00"></offering>
+        <offering name="Strawberry Balsamic Salad" price="7.00"></offering>
+        <offering name="Bistro House Salad" price="6.00"></offering>
+        <offering name="Build Your Own Omelet" price="6.00"></offering>
+        <offering name="Egg Baskets" price="5.00"></offering>
+        <offering name="Egg Baskets with Cutlet" price="9.00"></offering>
+        <offering name="Egg Baskets with Salmon" price="11.00"></offering>
+        <offering name="Egg Baskets with Steak" price="11.00"></offering>
+        <offering name="Chicken Love Supreme" price="9.00"></offering>
+        <offering name="The Breakfast Buttercup" price="10.00"></offering>
+        <offering name="Smothered Biscuits and Gravy" price="8.00"></offering>
+        <offering name="Bandito Molten Macs" price="7.00"></offering>
+        <offering name="Whos the Mac Molten Macs" price="6.00"></offering>
+        <offering name="Chicken Parm Molten Macs" price="9.00"></offering>
+        <offering name="Alfredo Molten Macs" price="9.00"></offering>
+        <offering name="Tuscan Molten Macs" price="8.00"></offering>
+        <offering name="El Diablo Burger" price="9.00"></offering>
+        <offering name="Chicken Avocado Sandwich" price="9.00"></offering>
+        <offering name="Build Your Own Burger or Chicken" price="8.00"></offering>
+        <offering name="Blanco Flatbreads and Calzones" price="9.00"></offering>
+        <offering name="Big Meaty Flatbreads and Calzones" price="9.00"></offering>
+        <offering name="Almost Goat Flatbreads and Calzones" price="9.00"></offering>
+        <offering name="BBQ Chicken Flatbreads and Calzones" price="9.00"></offering>
+    </restaurant>
+
+    <restaurant name="Gyotaku" location="West Union" origin="Asian" rating="3.50" restaurant_time="11:00AM-8:00PM">
+        <offering name="Gyotaku Hand Roll and Miso Soup" price="5.00"></offering>
+        <offering name="Garden Salad" price="3.95"></offering>
+        <offering name="Seaweed Salad" price="3.95"></offering>
+        <offering name="Sashimi and Nigari" price="1.50"></offering>
+        <offering name="Miso Soup" price="1.95"></offering>
+        <offering name="Edamame" price="3.95"></offering>
+        <offering name="Sashimi Bowl" price="9.95"></offering>
+        <offering name="Deluxe Sashimi Bowl" price="13.95"></offering>
+        <offering name="Veggie Sushi Rolls" price="6.25"></offering>
+        <offering name="Shrimp Tempura Sushi Rolls" price="8.49"></offering>
+        <offering name="Green Dragon Sushi Rolls" price="7.49"></offering>
+        <offering name="Gyotaku Special Sushi Rolls" price="9.95"></offering>
+        <offering name="Chapel Sushi Burrito" price="11.50"></offering>
+        <offering name="Cameron Sushi Burrito" price="11.00"></offering>
+        <offering name="Nasher Sushi Burrito" price="11.00"></offering>
+        <offering name="Levine Sushi Burrito" price="11.50"></offering>
+        <offering name="Baldwin Sushi Burrito" price="10.00"></offering>
+    </restaurant>
+
+    <restaurant name="JBs Roast and Chops" location="West Union" origin="American" rating="3.50" restaurant_time="11:00AM-8:00PM">
+        <offering name="JBs Roast and Chops" price="5.00"></offering>
+        <offering name="JBs Flank Steak" price="10.20"></offering>
+        <offering name="Prime Rib Au Jus" price="12.50"></offering>
+        <offering name="Coal Braised Beef Brisket" price="9.50"></offering>
+        <offering name="NY Strip" price="10.50"></offering>
+        <offering name="Rotisserie Chicken" price="7.00"></offering>
+        <offering name="Bone in Pork Chop" price="14.00"></offering>
+        <offering name="Salmon" price="12.00"></offering>
+        <offering name="Mahi Mahi" price="12.50"></offering>
+        <offering name="Yellow Fin Tuna" price="12.00"></offering>
+        <offering name="Classic Caesar Salad" price="3.00"></offering>
+        <offering name="Apple and Fennel Chopped Salad" price="4.00"></offering>
+        <offering name="Spinach and Pear" price="4.00"></offering>
+        <offering name="Paella Mixta" price="8.00"></offering>
+        <offering name="Paella Verduras" price="7.00"></offering>
+        <offering name="Paella La Marinera" price="8.00"></offering>
+        <offering name="Prime Rib Steak Sandwich" price="9.00"></offering>
+        <offering name="Marinated Grilled Chicken Breast Sandwich" price="8.00"></offering>
+        <offering name="Chop House Steak Burger" price="9.00"></offering>
+        <offering name="Flourless Chocolate Torte" price="5.00"></offering>
+        <offering name="Tiramisu" price="5.00"></offering>
+        <offering name="Carrot Cake" price="5.00"></offering>
+    </restaurant>
+
+    <restaurant name="Tandoor" location="West Union" origin="Indian" rating="3.50" restaurant_time="11:00AM-8:00PM">
+        <offering name="Tandoor" price="5.00"></offering>
+        <offering name="Vegetable Samosa 2pc" price="4.00"></offering>
+        <offering name="Chicken Tikka Dosai" price="10.00"></offering>
+        <offering name="Masala Dosa" price="8.20"></offering>
+        <offering name="Sada Dosai" price="6.15"></offering>
+        <offering name="Vegetable Dosai" price="8.20"></offering>
+        <offering name="Naan Bread" price="2.00"></offering>
+        <offering name="Garlic Naan Bread" price="3.00"></offering>
+        <offering name="Vegetarian Lunch Combo" price="7.20"></offering>
+        <offering name="NonVegetarian Lunch Combo" price="8.20"></offering>
+        <offering name="Vegetarian Dinner Combo" price="8.20"></offering>
+        <offering name="NonVegetarian Dinner Combo" price="9.25"></offering>
+        <offering name="Gulab Jamun" price="3.15"></offering>
+        <offering name="Mango Lassi" price="3.15"></offering>
+        <offering name="Kheer" price="3.15"></offering>
+    </restaurant>
+
+    <restaurant name="The Commons" location="West Union" origin="American" rating="3.50" restaurant_time="11:30AM-9:00PM">
+        <offering name="Goat Cheese Gnocchi" price="8.00"></offering>
+        <offering name="Mussels" price="11.00"></offering>
+        <offering name="Spinach Cakes" price="7.00"></offering>
+        <offering name="Lump Crab Salad" price="12.00"></offering>
+        <offering name="Roasted Vegetable Hushpuppy" price="6.00"></offering>
+        <offering name="Ribeye" price="23.00"></offering>
+        <offering name="Filet Mignon" price="20.00"></offering>
+        <offering name="Stuffed Chicken Breast" price="16.00"></offering>
+        <offering name="Grilled Atlantic Salmon" price="20.00"></offering>
+        <offering name="Lobster Bisque Soup" price="6.00"></offering>
+        <offering name="Soup of the Day" price="6.00"></offering>
+        <offering name="Jumbo Sea Scallops" price="24.00"></offering>
+        <offering name="Fall Vegetable Woodland Pie" price="15.00"></offering>
+        <offering name="Lump Crab Cakes" price="21.00"></offering>
+        <offering name="Lobster Mac and Cheese" price="21.00"></offering>
+        <offering name="Three Cheese Ravioli" price="16.00"></offering>
+        <offering name="Arugula Salad" price="5.00"></offering>
+        <offering name="Caesar Salad" price="5.00"></offering>
+        <offering name="Chopped Salad" price="5.00"></offering>
+        <offering name="House Salad" price="5.00"></offering>
+        <offering name="New York Cheesecake" price="6.00"></offering>
+        <offering name="Mint Cast Iron Chocolate Brownie" price="7.00"></offering>
+        <offering name="Zeppoles" price="7.00"></offering>
+        <offering name="Ice Cream Sundae" price="5.00"></offering>
+        <offering name="Hot Tea Service" price="3.00"></offering>
+    </restaurant>
+
+    <restaurant name="The Skillet" location="West Union" origin="American" rating="3.50" restaurant_time="7:30AM-8:00PM">
+        <offering name="The Skillet" price="5.00"></offering>
+        <offering name="Breakfast Blue Plate" price="7.20"></offering>
+        <offering name="Omelets To Order" price="8.20"></offering>
+        <offering name="Two Biscuits with Gravy" price="4.00"></offering>
+        <offering name="Build A Biscuit" price="2.00"></offering>
+        <offering name="Hash Browns" price="2.50"></offering>
+        <offering name="Cheesy Hash Brown Casserole" price="3.00"></offering>
+        <offering name="Grits" price="2.00"></offering>
+        <offering name="Hot Oatmeal" price="2.50"></offering>
+        <offering name="Bacon" price="3.00"></offering>
+        <offering name="Sausage" price="3.00"></offering>
+        <offering name="Country Ham" price="3.00"></offering>
+        <offering name="Biscuits" price="2.00"></offering>
+        <offering name="Sausage Gravy" price="2.00"></offering>
+        <offering name="Fruit" price="3.00"></offering>
+        <offering name="Fried Chicken" price="7.20"></offering>
+        <offering name="Pulled Pork BBQ" price="8.20"></offering>
+        <offering name="PO Boy of the Day" price="8.50"></offering>
+        <offering name="3 Sides Platter" price="7.00"></offering>
+        <offering name="Mac and Cheese" price="2.50"></offering>
+        <offering name="Collard Greens" price="2.50"></offering>
+        <offering name="Baked Beans" price="2.50"></offering>
+        <offering name="Green Beans" price="2.50"></offering>
+        <offering name="Dirty Rice" price="2.50"></offering>
+        <offering name="Potato Salad" price="2.50"></offering>
+        <offering name="Cole Slaw" price="2.50"></offering>
+        <offering name="Apple Bread Pudding" price="5.00"></offering>
+        <offering name="Banana Pudding" price="4.00"></offering>
+    </restaurant>
+
+
+</data>

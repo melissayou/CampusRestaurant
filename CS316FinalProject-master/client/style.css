@@ -1,0 +1,485 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Garamond;
+    color: black;
+    background-image: url("food.jpg");
+    opacity:0.2;
+}
+
+p {
+    font-size: 18.5px;
+}
+
+#fixed {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.bg {
+    background-image: url("hungary1.jpg");
+    height: 50%;
+    background-position: 50% 15%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.4);
+}
+
+#chart {
+    max-height: 550px;
+    max-width: 775px;
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.chart {
+    max-height: 350px;
+    max-width: 350px;
+    display: block;
+    margin: auto;
+    width: 75%;
+}
+
+.text {
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    line-height:150%;
+}
+
+.black {
+    color: white;
+    text-decoration: none;
+    background-color: black;
+}
+
+.grey {
+    background-color: #6c6c71;
+    color: white;
+}
+
+.title {
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+
+footer {
+    padding-right: .75%;
+    padding-bottom: .75%;
+    padding-top: 1.5%;
+    text-align: end;
+}
+
+.navbar {
+    padding: 2%;
+}
+
+.navlink {
+    margin-right: 5%;
+    padding: inherit;
+    font-size: 200%;
+}
+
+.graphic {
+    height: auto;
+    width: auto;
+    padding-bottom: 1%;
+}
+
+#mt {
+    margin-left: 3.5%;
+    display: inline-block;
+    margin-top: unset;
+    text-decoration: underline;
+    max-width:470px;
+}
+
+#bar {
+    position: absolute;
+    top: 370px;
+    left: 770px;
+    background: #393949;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.info {
+    position: absolute;
+    top: 100px;
+    background-color: #2f3f4f;
+    border-radius: 10px;
+    margin-left: 3.5%;
+}
+
+    .info h3, p {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+.news {
+    position: absolute;
+    top: -99999px;
+    left: -99999px;
+    height: auto;
+    width: 65%;
+    color: white;
+    background-color: #000;
+    border-radius: 10px;
+}
+
+#outlet, #analysis {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+
+button{
+    border-radius: 4px;
+    background-color: #393949;
+    font-family: Garamond;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-left: 10%;
+    color: green;
+}
+
+
+
+#map {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+#logos {
+    display: block;
+    margin: auto;
+    width: 70%;
+    padding: 2%;
+    min-height:627px;
+}
+
+.galleryWrap {
+    width: auto;
+    max-width: 330px;
+    height: auto;
+    padding: 15px;
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+    border-radius: 10px;
+    background-color: #2f3f4f;
+}
+
+.galleryWrap_close, .close, .modalClose {
+    font-family: 'Gill Sans MT';
+    color: white;
+    position: absolute;
+    top: 7px;
+    right: 13px;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+}
+
+* {
+    box-sizing: border-box
+}
+
+.slideshow-container {
+    max-width: 512px;
+    position: relative;
+    margin: auto;
+}
+
+.slides {
+    max-width: 512px;
+    position: relative;
+    margin: auto;
+    display: none;
+}
+
+#cont {
+    margin-top: 1%;
+}
+
+.mySlides {
+    display: none;
+}
+
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+    .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+    }
+
+
+
+.dot {
+    cursor: pointer;
+    height: 7px;
+    width: 7px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+    .active, .dot:hover {
+        background-color: #717171;
+    }
+
+Fading animation .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+.formWrap {
+    display: block;
+    margin: auto;
+    width: 60%;
+    display: none;
+}
+
+.image {
+    width: 260px;
+    height: auto;
+}
+
+#surveyimage {
+    width: 512px;
+    height: auto;
+}
+
+.pusher {
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.changeMap {
+    position: absolute;
+    left: 670px;
+}
+
+.dropbtn {
+    /*background-color: #393949;*/
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    /* Links inside the dropdown */
+    .dropdown-content a {
+        font-size: 16px;
+        color: black;
+        padding: 8px 12px;
+        text-decoration: none;
+        display: block;
+    }
+
+        /* Change color of dropdown links on hover */
+        .dropdown-content a:hover {
+            background-color: #f1f1f1
+        }
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.toolbar {
+    padding-top: 1%;
+}
+
+#wordCloud {
+    display: block;
+    margin: auto;
+    max-width: 450px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    #wordCloud:hover {
+        opacity: 0.7;
+    }
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {
+        -webkit-transform: scale(0)
+    }
+
+    to {
+        -webkit-transform: scale(1)
+    }
+}
+
+@keyframes zoom {
+    from {
+        transform: scale(0)
+    }
+
+    to {
+        transform: scale(1)
+    }
+}
+
+#nextC {
+    position: absolute;
+    top: 435px;
+    left: 650px;
+}
+
+#nextC span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+    #nextC span:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -5px;
+        transition: 0.5s;
+    }
+
+#nextC:hover span {
+    padding-right: 25px;
+}
+
+    #nextC:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+#prevC {
+    position: absolute;
+    top: 435px;
+    left: 100px;
+}
+
+    #prevC span {
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+    }
+
+    #prevC span:before {
+        content: '\00ab';
+        position: relative;
+        opacity: 0;
+        top: 0;
+        left: -5px;
+
+        transition: 0.5s;
+    }
+
+
+
+    #prevC:hover span:before {
+        opacity: 1;
+        padding-right: 25px;
+        right: 0;
+    }

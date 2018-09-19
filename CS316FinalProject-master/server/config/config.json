@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "zhouyiqin",
+    "password": null,
+    "database": "food",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "zhouyiqin",
+    "password": null,
+    "database": "food",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "zhouyiqin",
+    "password": null,
+    "database": "DATABASE_URL",
+    "dialect": "postgres",
+    "use_env_variable": "DATABASE_URL",
+    "host": "process.env.DATABASE_HOST"
+  }
+}
